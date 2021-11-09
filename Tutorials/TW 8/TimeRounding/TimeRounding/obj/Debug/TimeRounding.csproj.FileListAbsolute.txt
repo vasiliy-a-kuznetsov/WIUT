@@ -1,0 +1,10 @@
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TimeRounding\TimeRounding\bin\Debug\TimeRounding.exe.config
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TimeRounding\TimeRounding\bin\Debug\TimeRounding.exe
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TimeRounding\TimeRounding\bin\Debug\TimeRounding.pdb
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TimeRounding\TimeRounding\obj\Debug\TimeRounding.csprojAssemblyReference.cache
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TimeRounding\TimeRounding\obj\Debug\TimeRounding.Form1.resources
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TimeRounding\TimeRounding\obj\Debug\TimeRounding.Properties.Resources.resources
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TimeRounding\TimeRounding\obj\Debug\TimeRounding.csproj.GenerateResource.cache
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TimeRounding\TimeRounding\obj\Debug\TimeRounding.csproj.CoreCompileInputs.cache
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TimeRounding\TimeRounding\obj\Debug\TimeRounding.exe
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TimeRounding\TimeRounding\obj\Debug\TimeRounding.pdb
