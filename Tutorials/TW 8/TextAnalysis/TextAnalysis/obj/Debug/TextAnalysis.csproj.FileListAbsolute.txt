@@ -1,0 +1,10 @@
+d:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.exe.config
+d:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.exe
+d:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.pdb
+d:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csprojAssemblyReference.cache
+d:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.Form1.resources
+d:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.Properties.Resources.resources
+d:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+d:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+d:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.exe
+d:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.pdb

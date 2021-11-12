@@ -1,0 +1,10 @@
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\HeavyWeightChampionship\HeavyWeightChampionship\bin\Debug\HeavyWeightChampionship.exe.config
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\HeavyWeightChampionship\HeavyWeightChampionship\bin\Debug\HeavyWeightChampionship.exe
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\HeavyWeightChampionship\HeavyWeightChampionship\bin\Debug\HeavyWeightChampionship.pdb
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\HeavyWeightChampionship\HeavyWeightChampionship\obj\Debug\HeavyWeightChampionship.csprojAssemblyReference.cache
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\HeavyWeightChampionship\HeavyWeightChampionship\obj\Debug\HeavyWeightChampionship.Form1.resources
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\HeavyWeightChampionship\HeavyWeightChampionship\obj\Debug\HeavyWeightChampionship.Properties.Resources.resources
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\HeavyWeightChampionship\HeavyWeightChampionship\obj\Debug\HeavyWeightChampionship.csproj.GenerateResource.cache
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\HeavyWeightChampionship\HeavyWeightChampionship\obj\Debug\HeavyWeightChampionship.csproj.CoreCompileInputs.cache
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\HeavyWeightChampionship\HeavyWeightChampionship\obj\Debug\HeavyWeightChampionship.exe
+D:\Documents\WIUT\2020-2021\Semester 1\FunPro\Tutorials\TW 8 - In-class test\HeavyWeightChampionship\HeavyWeightChampionship\obj\Debug\HeavyWeightChampionship.pdb
